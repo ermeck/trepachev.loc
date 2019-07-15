@@ -46,6 +46,7 @@
             <h3>01. Base</h3>
             <ul>
                 <li><a href="js/01-Base/l-002/002.html">Lesson 002. Основы языка</a></li>
+                <li><a href="js/01-Base/l-003/003.html">Lesson 003. Работа с массивами</a></li>
             </ul>
         </div>
     </div>
