@@ -30,6 +30,7 @@
                 <li><a href="php/01-Base/l-013/013.php">Lesson 013. Работа с флагам</a></li>
                 <li><a href="php/01-Base/l-014/014.php">Lesson 014. Работа с логическими значениями</a></li>
                 <li><a href="php/01-Base/l-015/015.php">Lesson 015. Работа с вложенными циклами</a></li>
+                <li><a href="php/01-Base/l-016/016.php">Lesson 016. Задачи на приемы работы с массивами</a></li>
             </ul>
             <h3>07. Сессии и куки</h3>
             <ul>
