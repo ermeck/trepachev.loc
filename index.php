@@ -48,6 +48,9 @@
             <ul>
                 <li><a href="js/01-Base/l-002/002.html">Lesson 002. Основы языка</a></li>
                 <li><a href="js/01-Base/l-003/003.html">Lesson 003. Работа с массивами</a></li>
+                <li><a href="js/01-Base/l-004/004.html">Lesson 004. if-else, switch-case</a></li>
+                <li><a href="js/01-Base/l-005/005.html">Lesson 005. Циклы while, for</a></li>
+                <li><a href="js/01-Base/l-006/006.html">Lesson 006. Math functions</a></li>
             </ul>
         </div>
     </div>
