@@ -51,6 +51,7 @@
                 <li><a href="js/01-Base/l-004/004.html">Lesson 004. if-else, switch-case</a></li>
                 <li><a href="js/01-Base/l-005/005.html">Lesson 005. Циклы while, for</a></li>
                 <li><a href="js/01-Base/l-006/006.html">Lesson 006. Math functions</a></li>
+                <li><a href="js/01-Base/l-007/007.html">Lesson 007. Строковые функции</a></li>
             </ul>
         </div>
     </div>
