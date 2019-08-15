@@ -67,8 +67,55 @@
 
     <h3>Многомерные массива</h3>
 
-    <h4>Task 5</h4><?php?>
-    <h4>Task 6</h4><?php?>
-    <h4>Task 7</h4><?php?>
+    <h4>Task 5</h4>
+    <?php
+        $arr = [
+            [1, 2, 3],
+            [4, 5],
+            [6]
+        ];
+        $sum = 0;
+        foreach ($arr as $key) {
+            foreach ($key as $elem) {
+                $sum += $elem;
+            }
+        }
+        echo $sum;
+    ?>
+    <h4>Task 6</h4>
+    <?php
+        $arr = [
+            [
+                [1, 2],
+                [3, 4]
+            ],
+            [
+                [5, 6],
+                [7, 8]
+            ]
+        ];
+        $sum = 0;
+        foreach ($arr as $elem) {
+            foreach ($elem as $sub)
+                foreach ($sub as $sub_sub) {
+                    $sum += $sub_sub;
+                }
+        }
+        echo $sum;
+    ?>
+    <h4>Task 7</h4>
+    <?php
+        $arr = [];
+        $k = 0;
+        for ($i = 0; $i < 3; $i++) {
+            for ($j = 0; $j < 3; $j++) {
+                $k++;
+                $arr[$i][$j] = $k;
+            }
+        }
+        echo '<pre>';
+        print_r($arr);
+        echo '</pre>';
+    ?>
 </body>
 </html>

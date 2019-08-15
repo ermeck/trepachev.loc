@@ -52,6 +52,16 @@
                 <li><a href="js/01-Base/l-005/005.html">Lesson 005. Циклы while, for</a></li>
                 <li><a href="js/01-Base/l-006/006.html">Lesson 006. Math functions</a></li>
                 <li><a href="js/01-Base/l-007/007.html">Lesson 007. Строковые функции</a></li>
+                <li><a href="js/01-Base/l-008/008.html">Lesson 008. Функции работы с массивами</a></li>
+                <li><a href="js/01-Base/l-009/009.html">Lesson 009. Работа со стандартными функциями</a></li>
+                <li><a href="js/01-Base/l-010/010.html">Lesson 010. Простые функции</a></li>
+                <li><a href="js/01-Base/l-011/011.html">Lesson 011. Флаги</a></li>
+                <li><a href="js/01-Base/l-012/012.html">Lesson 012. Логические значения</a></li>
+                <li><a href="js/01-Base/l-013/013.html">Lesson 013. Циклы, пирамидки</a></li>
+                <li><a href="js/01-Base/l-014/014.html">Lesson 014. Задачи на массивы</a></li>
+                <li><a href="js/01-Base/l-015/015.html">Lesson 015. Пользовательские функции (I)</a></li>
+                <li><a href="js/01-Base/l-016/016.html">Lesson 016. Пользовательские функции (II)</a></li>
+                <li><a href="js/01-Base/l-017/017.html">Lesson 017. Пользовательские функции (III)</a></li>
             </ul>
         </div>
     </div>
